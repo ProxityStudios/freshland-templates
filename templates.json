@@ -1,10 +1,10 @@
 {
   "typescript-starter": {
-    displayName: "Typescript Starter",
-    path: "./typescript-starter"
+    "displayName": "Typescript Starter",
+    "path": "./typescript-starter"
   },
   "express-api-starter-ts": {
-    displayName: "Express API Starter TS",
-    path: "./express-api-starter-ts"
+    "displayName": "Express API Starter TS",
+    "path": "./express-api-starter-ts"
   }
 }
