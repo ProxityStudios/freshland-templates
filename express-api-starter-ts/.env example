@@ -1,0 +1,4 @@
+NODE_ENV=production
+NUMBER=0
+BOOLEAN=true
+#PORT=5000

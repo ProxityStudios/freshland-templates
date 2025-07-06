@@ -3,8 +3,20 @@
     "displayName": "Typescript Starter",
     "uri": "https://github.com/ProxityStudios/freshland-templates/typescript-starter"
   },
+  "javascript-starter": {
+    "displayName": "Javascript Starter",
+    "uri": "https://github.com/ProxityStudios/freshland-templates/javascript-starter"
+  },
   "express-api-starter-ts": {
     "displayName": "Express API Starter TS",
     "uri": "https://github.com/ProxityStudios/freshland-templates/express-api-starter-ts"
+  },
+  "discord-bot-starter-ts": {
+    "displayName": "Discord Bot Starter TS",
+    "uri": "https://github.com/ProxityStudios/freshland-templates/discord-bot-starter-ts"
+  },
+  "discord-bot-starter-js": {
+    "displayName": "Discord Bot Starter JS",
+    "uri": "https://github.com/ProxityStudios/freshland-templates/discord-bot-starter-js"
   }
 }
